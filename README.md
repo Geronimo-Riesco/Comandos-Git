@@ -27,6 +27,9 @@
 `Confirmo una version del directorio del entorno de ensayo en el historial de confirmaciones de los repositorios`
 - git commit -m "mensaje" 
 
+`Modificación del mensaje del commit más reciente`
+- git commit --amend -m "mensaje actualizado"
+
 `Cargo el contenido del repositorio local a un repositorio remoto`
 - git push
 
